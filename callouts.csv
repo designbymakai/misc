@@ -1,4 +1,4 @@
-">[!wideview]",,wide,@over
+>[!wideview],,wide,@over
 
 >[!flying],,@flying
 
@@ -6,80 +6,76 @@
 
 >[!castle],,@castle
 
->[!personality]
+>[!storms],,@storms
 
->[!storms]
+>[!fire],,@fire
 
->[!fire]
+>[!nature],,@nature
 
->[!nature]
+>[!luminance],,@luminance
 
->[!luminance]
+>[!void],,@void
 
->[!void]
+>[!scroll],,@scroll
 
->[!scroll]
+>[!footprint],,@footprint
 
->[!footprint]
+>[!water],,@water
 
->[!water]
+>[!earth],,@earth
 
->[!earth]
+>[!physical],,@physical
 
->[!physical]
+>[!spiritual],,@spiritual
 
->[!spiritual]
+>[!time],,@time
 
->[!time]
+>[!rune],,@rune
 
->[!rune]
+>[!fish],,@fish
 
->[!fish]
+>[!ocean],,@ocean
 
->[!ocean]
+>[!battles],,@battles
 
->[!battles]
+>[!love],,@love
 
->[!love]
+>[!town],,@town
 
->[!town]
+>[!tavern],,@tavern
 
->[!tavern]
+>[!arcana],,@arcana
 
->[!time]
+>[!treasure],,@treasure1
 
->[!arcana]
+>[!mystical],,@mystical
 
->[!treasure]
+>[!map-location],,@location
 
->[!mystical]
+>[!port],,@port
 
->[!map-location]
+>[!monster],,@monster
 
->[!port]
+>[!identity],,@identity
 
->[!monster]
+>[!star],,@star
 
->[!identity]
+>[!alchemy],,@alchemy
 
->[!star]
+>[!treasure],,@treasure
 
->[!alchemy]
+>[!crown],,@crown
 
->[!treasure]
+>[!mineral],,@mineral
 
->[!crown]
+>[!beast],,@beast
 
->[!mineral]
+>[!love],,@love2
 
->[!beast]
+>[!kaen],,@kaen
 
->[!love]
+>[!egg],,@egg
 
->[!kaen]
+>[!scroll],,@scroll
 
->[!egg]
-
->[!scroll]
-
->[!sunset]
+>[!sunset],,@sunset
